@@ -1,6 +1,9 @@
 # Hi There 👋 
 ## I am Dhaval Hariyani. I'm a CSE student and learning new technologies every day. Happy to see you at my git repo.
+### Visit my github page [Dhaval Hariyani](https://dhavalhariyani.github.io/)
+
 ### Here's the stats of my github 
+
 
 [![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavalhariyani&show_icons=true&theme=default )](https://github.com/dhavalhariyani)
 
