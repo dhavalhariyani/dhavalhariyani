@@ -6,7 +6,7 @@
 ###  Fun Facts ⚡
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning JavaScript and JS Frameworks.
-- :pencil2: I Write blogs on greatancientindia.com on free days.
+- :pencil2: I Write blogs on [Great Ancient India](https://greatancientindia.com) in free time.
 - :musical_note: I love to hear old bollywood music.
 
 
