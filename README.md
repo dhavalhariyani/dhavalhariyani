@@ -1,10 +1,19 @@
 # Hello There Fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
-## I am Dhaval Hariyani. I'm a CSE student and learning new technologies every day. I love coding and I participate in Hackathons occasinally to sharpen my skills.
+## I am Dhaval Hariyani. I'm a CSE student and learning new technologies every day.
 
-## Learn -> Practice -> Improvise => Success
+### Find Me Here 
 
-### Visit my LinkedIn page [Dhaval Hariyani](https://www.linkedin.com/in/dhaval-hariyani/)
+<a href="https://www.linkedin.com/in/dhaval-hariyani/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  
+<a href="https://www.hackerrank.com/dhavalhariyani">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+ </a>
+  
+
 
 ### Some Facts ⚡
 - 🌱 I’m currently learning **Blockchain and JS Frameworks**.
@@ -29,6 +38,7 @@
 
 ### Things I'm Currently Learning:
 
+![image](https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
