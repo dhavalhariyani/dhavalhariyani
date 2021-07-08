@@ -1,21 +1,16 @@
 # Hello There Fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 ## I am Dhaval Hariyani. I'm a CSE student and learning new technologies every day. I love coding and I participate in Hackathons occasinally to sharpen my skills.
-### Visit my github page [Dhaval Hariyani](https://dhavalhariyani.github.io/)
 
-###  Fun Facts ⚡
-- 👯 I’m looking to collaborate on projects that are using Python.
-- 🌱 I’m currently learning JavaScript and JS Frameworks.
+## Learn -> Practice -> Improvise => Success
+
+### Visit my LinkedIn page [Dhaval Hariyani](https://www.linkedin.com/in/dhaval-hariyani/)
+
+### Some Facts ⚡
+- 🌱 I’m currently learning **Blockchain and JS Frameworks**.
 - :pencil2: I Write blogs on [Great Ancient India](https://greatancientindia.com) in free time.
 - :musical_note: I love to hear old bollywood music.
-
-
-### Let's Connect :coffee:
-<p align="left">
-	<a href="https://github.com/dhavalhariyani"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/dhaval-hariyani/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/dhaval_hariyani/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
+- 🏇 I love Horses and Horse Riding.
 
 ### Things I'm Familiar With:
 
