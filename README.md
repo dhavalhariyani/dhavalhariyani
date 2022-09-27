@@ -56,10 +56,14 @@
 
 
 
-### Here's the stats of my github 
+### Here are some stats
 
 
 [![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavalhariyani&show_icons=true&theme=default&count_private=true)](https://github.com/dhavalhariyani)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalhariyani&layout=compact)](https://github.com/dhavalhariyani)
+
+<a href="https://github.com/dhavalhariyani"><img src="https://github.com/dhavalhariyani/dhavalhariyani/blob/main/devcard.svg" width="333" alt="Dhaval's Dev Card"/></a>
+
+
