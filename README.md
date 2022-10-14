@@ -1,6 +1,6 @@
 # Hello There Fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
-## I am Dhaval Hariyani. I'm a CSE student and learning new technologies every day.
+## I am Dhaval Hariyani, a Software Developer.
 
 ### Find Me Here 
 
