@@ -17,7 +17,7 @@
 
 ### Some Facts ⚡
 - 🌱 I’m currently learning **Golang**.
-- :pencil2: I Write blogs on [Anant Aryavart]([https://greatancientindia.com](https://anantaryavart.com/)) in free time.
+- :pencil2: I Write blogs on [Anant Aryavart](https://anantaryavart.com) in free time.
 - :musical_note: I love to hear old Bollywood music.
 - 🏇 I love Horses and Horse Riding.
 
