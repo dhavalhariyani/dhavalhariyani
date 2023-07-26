@@ -14,15 +14,47 @@
  </a>
   
 
+## ⚡ Some Facts About Me
+- 🌱 I’m currently exploring **Golang** and investing time in improving my skills.
+- ✏️ In my free time, I love to write technical blogs on [Anant Aryavart]([Your blog URL](https://anantaryavart.com/)).
+- 🎵 I'm a big fan of old Bollywood music. It's my go-to for coding marathons!
+- 🏇 An interesting fact about me - I love horses and enjoy horse riding. Always looking forward to the next adventure on horseback!
 
-### Some Facts ⚡
-- 🌱 I’m currently learning **Golang**.
-- :pencil2: I Write blogs on [Anant Aryavart](https://anantaryavart.com) in free time.
-- :musical_note: I love to hear old Bollywood music.
-- 🏇 I love Horses and Horse Riding.
+I'm always looking for challenging work opportunities, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dhaval-hariyani) if you want to collaborate.
+
+
+## 🚀 Skills
+
+**Programming Languages:**
+- JavaScript
+- SQL
+- Golang (Currently learning)
+
+**Frameworks/Libraries:**
+- Node.js
+- React.js
+- Express.js
+
+**Databases:**
+- MongoDB
+- PostgreSQL
+
+**Tools:**
+- Git
+- Docker
+- Kubernetes
+
+**Other:**
+- RESTful APIs
+- CI/CD Pipelines
+
+**Soft Skills:**
+- Strong Communication
+- Leadership
+- Team Collaboration
+- Problem Solving
 
 ### Here are some stats
-
 
 [![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavalhariyani&show_icons=true&theme=default&count_private=true)](https://github.com/dhavalhariyani)
 
