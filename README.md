@@ -20,6 +20,7 @@
   
 
 ## ⚡ Some Facts About Me
+- 👨‍💻 Currently building [Iktara Life](https://iktaralife.com)
 - 🌱 I’m currently exploring **Golang** and investing time in improving my skills.
 - ✏️ In my free time, I love to write technical blogs on [Anant Aryavart]([Your blog URL](https://anantaryavart.com/)).
 - 🎵 I'm a big fan of old Bollywood music. It's my go-to for coding marathons!
