@@ -22,8 +22,8 @@
 ## ⚡ Some Facts About Me
 - 👨‍💻 Currently building [Iktara Life](https://iktaralife.com)
 - 🌱 I’m currently exploring **Golang** and investing time in improving my skills.
-- ✏️ In my free time, I love to write technical blogs on [Anant Aryavart]([Your blog URL](https://anantaryavart.com/)).
-- 🎵 I'm a big fan of old Bollywood music. It's my go-to for coding marathons!
+- ✏️ In my free time, I love to read Gujarati books
+- 🎵 I'm a big fan of Gujarati Bhajans, Hindi Ghazals and Hindustani Classical Music. It's my go-to for coding marathons!
 - 🏇 An interesting fact about me - I love horses and enjoy horse riding. Always looking forward to the next adventure on horseback!
 
 I'm always looking for challenging work opportunities, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dhaval-hariyani) if you want to collaborate.
